@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://www.pinterest.com/pin/313563192825393779/">
- <source media="(prefers-color-scheme: light)" srcset="https://www.pinterest.com/pin/313563192825393779/">
- <img alt="YOUR-ALT-TEXT" src="https://www.pinterest.com/pin/313563192825393779/">
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/736x/10/df/25/10df253c4ddb0904215ce68d0c715e84.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/736x/10/df/25/10df253c4ddb0904215ce68d0c715e84.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://i.pinimg.com/736x/10/df/25/10df253c4ddb0904215ce68d0c715e84.jpg">
 </picture>
 
 
